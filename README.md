@@ -71,7 +71,8 @@ Here are some of the projects I’m working on or plan to publish soon:
 - Customer Experience Analytics
 - Building Reading Communities
 - Data Storytelling & Visualization
-
+-#ALXSE hashtag#ALXPD hashtag#ALXFE hashtag#ALXBE hashtag#CX hashtag#DataAnalytics hashtag#DataScience hashtag#FrontEndWebDevelopment
+alx_africa  ALX Kenya
 ---
 
 ### 💬 Fun Fact
